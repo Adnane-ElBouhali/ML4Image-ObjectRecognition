@@ -34,7 +34,7 @@ This course covers the main machine learning techniques for image analysis, incl
 7. [TP6-MLP](./5-ANN_and_MLP/TP6-MLP): Multi-Layer Perceptron implementation and applications
 
 ### Convolutional Neural Networks
-8. [TP7-CNN](./7-CNN/TP7-CNN): Convolutional Neural Networks for image recognition
+8. [TP7-CNN](./6-CNN/TP7-CNNs): Convolutional Neural Networks for image recognition
 
 ## Usage
 
